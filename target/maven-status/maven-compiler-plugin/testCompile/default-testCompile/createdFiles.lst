@@ -1,0 +1,7 @@
+Actions\AddToCartAction.class
+StepDefinitions\AddToCartStepDefinitions.class
+StepDefinitions\LoginStepDefinitions.class
+Actions\POMRepository.class
+TestRunner\TestRunner.class
+Hooks\Hooks.class
+Actions\LoginAction.class
